@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning React, Javascript, Typescript<br><br>💬 Ask me about anything<br>
+🌱 I’m currently learning React, Javascript, Typescript<br><br>
+Working currently at Chat aplication as University project.
+<br>
 
 
 ## 🌐 Socials:
