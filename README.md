@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning React, Javascript, Typescript<br><br>
-Working currently on an Chat aplication as University project (tech stack: React, TailwindCSS, Express, MongoDB).
+🌱 I’m currently learning Javascript from scratch to understand all built in functions<br><br>
+
 <br>
 
 
