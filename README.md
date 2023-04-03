@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Javascript from scratch to understand all built in functions<br><br>
+🌱 I’m currently reading JavaScript: The Definitive Guide. Doing project for frontend course, building music application.<br><br>
 
 <br>
 
