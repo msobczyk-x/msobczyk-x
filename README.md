@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently reading JavaScript: The Definitive Guide. Doing project for frontend course, building music application.<br><br>
+🌱 I’m currently reading doing project for frontend course, building music application that uses Spotify Web Playback SDK.<br><br>
 
 <br>
 
