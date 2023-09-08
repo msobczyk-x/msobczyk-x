@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently reading doing project for frontend course, building music application that uses Spotify Web Playback SDK.<br><br>
+🌱 I’m currently doing frontend courses and looking for entry level job as Junior/Intern Frontend Developer.<br><br>
 
 <br>
 
