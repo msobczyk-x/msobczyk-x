@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently doing frontend courses and looking for entry level job as Junior/Intern Frontend Developer.<br><br>
+🌱 Working as Junior Frontend Developer at z3x <br><br>
+📚 Currently reading: "Design Patterns: Elements of Reusable Object-Oriented Software" Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 
 <br>
 
