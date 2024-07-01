@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 Working as Junior Frontend Developer at z3x <br><br>
-📚 Currently reading: "Design Patterns: Elements of Reusable Object-Oriented Software" Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+🌱 Working as Junior Frontend Developer at z3x Tech Marketing Agency <br><br>
+📖 Currently reading: "Clean Code: A Handbook of Agile Software Craftsmanship" Robert C. Martin
 
 <br>
 
