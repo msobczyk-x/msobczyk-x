@@ -1,6 +1,5 @@
 # 💫 About Me:
 🌱 Working as Junior Frontend Developer at z3x Tech Marketing Agency <br><br>
-📖 Currently reading: "Clean Code: A Handbook of Agile Software Craftsmanship" Robert C. Martin
 
 <br>
 
