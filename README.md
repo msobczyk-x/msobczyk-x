@@ -1,5 +1,5 @@
 # 
-🌱 Working as Junior Frontend Developer at z3x Tech Marketing Agency <br><br>
+🌱 Working as React Native Developer at TDSOFT <br><br>
 
 <br>
 
