@@ -3,26 +3,19 @@ Last login: Tue Jul 21 09:41:07 on ttys001
 
 msobczyk@github:~$ whoami
 
-            .-/+oossssoo+/-.               msobczyk@github
-        `:+ssssssssssssssssss+:`           ---------------
-      -+ssssssssssssssssssyyssss+-         
-    .ossssssssssssssssssdMMMNysssso.       Role:      React Native Developer
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Work:      TDSOFT
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Languages: TypeScript · JavaScript · Swift · Kotlin
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Stack:     React Native · React · Node.js
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Editor:    Zed
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Contact:   github.com/msobczyk-x
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    
-  +sssssssssdmydMMMMMMMMddddyssssssss+     
-   /ssssssssssshdmNNNNmyNMMMMhssssss/      
-    .ossssssssssssssssssdMMMNysssso.       
-      -+sssssssssssssssssyyyssss+-         
-        `:+ssssssssssssssssss+:`           ██  ██  ██  ██  ██  ██  ██  ██
-            .-/+oossssoo+/-.               
+     msobczyk@github
+     ---------------
+
+     Role:      React Native Developer
+     Work:      TDSOFT
+     Languages: TypeScript · JavaScript · Swift · Kotlin
+     Stack:     React Native · React · Node.js
+     Editor:    Zed
+     Contact:   github.com/msobczyk-x
+
+
+            ██  ██  ██  ██  ██  ██  ██  ██
+             
 
 msobczyk@github:~$ █
 ```
